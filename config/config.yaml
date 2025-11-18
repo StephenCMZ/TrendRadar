@@ -128,6 +128,8 @@ platforms:
     name: "知乎"
   # - id: "hupu"
   #   name: "虎扑"
+  - id: "douban"
+    name: "豆瓣"
 
   # === 科技类平台 ===
   # - id: "ithome"
@@ -150,6 +152,8 @@ platforms:
     name: "少数派"
   # - id: "producthunt"
   #   name: "ProductHunt"
+  - id: "coolapk"
+    name: "酷安"
 
    # === 其他/工具类 ===
   # - id: "chongbuluo"
